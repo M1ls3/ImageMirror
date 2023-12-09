@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\!Dizox\\Лаби\\ЧНУ\\2022 рік 1 семестр 2 курсу\\ООП\\Лаба 3\\Lab_3 (2)\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\!Dizox\\Git\\Repositories\\Molchanov_OOP_Lab_3-2_2022\\Lab_3 (2)\\Lab_3 (2)\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\!Dizox\\Лаби\\ЧНУ\\2022 рік 1 семестр 2 курсу\\ООП\\Лаба 3\\Lab_3 (2)\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\!Dizox\\Git\\Repositories\\Molchanov_OOP_Lab_3-2_2022\\Lab_3 (2)\\Lab_3 (2)\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\!Dizox\\Лаби\\ЧНУ\\2022 рік 1 семестр 2 курсу\\ООП\\Лаба 3\\Lab_3 (2)\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\!Dizox\\Git\\Repositories\\Molchanov_OOP_Lab_3-2_2022\\Lab_3 (2)\\Lab_3 (2)\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\!Dizox\\Лаби\\ЧНУ\\2022 рік 1 семестр 2 курсу\\ООП\\Лаба 3\\Lab_3 (2)\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\!Dizox\\Git\\Repositories\\Molchanov_OOP_Lab_3-2_2022\\Lab_3 (2)\\Lab_3 (2)\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Dizox\\.nuget\\packages\\",
-        "outputPath": "C:\\!Dizox\\Лаби\\ЧНУ\\2022 рік 1 семестр 2 курсу\\ООП\\Лаба 3\\Lab_3 (2)\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\!Dizox\\Git\\Repositories\\Molchanov_OOP_Lab_3-2_2022\\Lab_3 (2)\\Lab_3 (2)\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,8 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\Dizox\\.nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
           "https://www.nuget.org/api/v2": {}
         },
         "frameworks": {
@@ -79,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

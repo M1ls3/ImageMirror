@@ -63,7 +63,6 @@ namespace ConsoleApp1
                     if (regexExtForImage.IsMatch(Path.GetExtension(path))) { Console.WriteLine(fileName + " Incorrect path!"); }
                 }
             }
-
             Menu();
         }
     }
